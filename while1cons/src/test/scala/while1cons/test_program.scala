@@ -5,7 +5,7 @@ import org.junit.Assert._
 
 import while1cons.While1cons._
 import while1cons._
-/*import while1cons.istic.cal.while1cons.{
+import while1cons.istic.cal.while1cons.{
   Set,
   Tl,
   Hd,
@@ -17,7 +17,7 @@ import while1cons._
   NewVar,
   Var
 }
- */
+ 
 
 class TestsProgram {
 
